@@ -32,7 +32,7 @@
 ### 👩‍💻 About Me
 - 💙 I’m a **Flutter Developer** with a growing passion for building elegant and responsive mobile applications.
 - 🏗️ Currently working on Flutter projects with **clean architecture** and **state management**.
-- 🔭 Also I’m currently working on [Huge Ride Booking](https://github.com/m9m6/safar_maei.git)
+- 🔭 Also I’m currently working on [Huge Ride Booking App](https://github.com/m9m6/safar_maei.git)
 - 📫 How to reach me **mariamalaabdr@gmail.com**
 - 🌱 Constantly learning new tools and techniques to improve my skills.
 - 🔍 Looking for opportunities to grow, contribute, and collaborate in tech communities.
